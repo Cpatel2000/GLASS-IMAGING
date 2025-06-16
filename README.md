@@ -3,8 +3,6 @@
 This is a **FastAPI web application** for composing and running image processing pipelines through a visually interactive UI.
 It enables uploading an image, choosing processing steps, adjusting parameters, and viewing results live in the browser.
 
-Repository: [Cpatel2000/Image\_processing\_pipeline](https://github.com/Cpatel2000/GLASS-IMAGING)
-
 ---
 
 ## 🚀 Features
