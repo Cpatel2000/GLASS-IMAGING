@@ -48,15 +48,15 @@ It enables uploading an image, choosing processing steps, adjusting parameters, 
 1. **Clone the repo**
 
 ```bash
-git clone https://github.com/Cpatel2000/Image_processing_pipeline.git
-cd Image_processing_pipeline
+git clone https://github.com/Cpatel2000/GLASS_IMAGING.git
+cd GLASS-IMAGING
 ```
 
 2. **Set up environment**
 
 ```bash
-conda create --name image-pipeline python=3.9.6 
-conda activate image-pipeline
+conda create --name glass python=3.9.6 
+conda activate glass
 pip install -r requirements.txt
 ```
 
