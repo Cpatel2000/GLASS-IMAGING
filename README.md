@@ -95,5 +95,12 @@ pip install -r requirements.txt
 ```
 
 ---
+## 📄 License
+
+This project is part of a take-home assignment for Glass Imaging. All rights reserved.
+
+---
+
+Built with ❤️ and ☕ for Glass Imaging
 
 
