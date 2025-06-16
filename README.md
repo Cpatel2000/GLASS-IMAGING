@@ -7,7 +7,7 @@ It enables uploading an image, choosing processing steps, adjusting parameters, 
 
 ## 🚀 Features
 
-* Upload and preview images (JPG, PNG, GIF)
+* Upload and preview images 
 * Compose image pipelines using modular steps
 * Adjust parameters for each step (e.g. brightness, hue, blur)
 * TailwindCSS enhanced glassmorphism UI with gradient animations
